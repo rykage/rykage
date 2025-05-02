@@ -2,6 +2,8 @@
 
 A **23-year old Software Developer** specializing in **Front-end development**. I'm passionate on building solutions that provides great user experience.
 
+I'm currently working full-time at Alliance Software Incorporated.
+
 # Technologies I work with:
 - **Languages**: JavaScript, TypeScript, Dart.
 - **Frameworks/Libraries**: React, Next.js, Angular, Flutter, React Native.
